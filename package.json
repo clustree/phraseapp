@@ -1,0 +1,14 @@
+{
+  "name": "@clustree/phraseapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "bin/phraseapp",
+  "author": "Clustree",
+  "license": "MIT",
+  "dependencies": {
+    "form-data": "^2.3.2",
+    "js-yaml": "^3.12.0",
+    "node-fetch": "^2.2.0",
+    "yargs": "^12.0.1"
+  }
+}
